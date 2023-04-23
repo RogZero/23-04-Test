@@ -9,8 +9,6 @@ using Npgsql;
 
 namespace TestingPosgres;
 
-// 4th commit
-
 public class Program 
 {
     // ~~~~~~~~~~~~~~~ Input a title ~~~~~~~~~~~~~~~
